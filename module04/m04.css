@@ -1,0 +1,63 @@
+* {
+   font-family: 'BeonRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+   text-align: center;
+}
+h1 {
+        font-family: 'BeonRegular'; 
+        font-weight: normal; 
+        font-style: normal; 
+}
+body {
+		width: 90%;
+		margin: 0 auto;
+        background-color:white;
+        background-image: url("http://images4.fanpop.com/image/photos/20400000/Winterfell-game-of-thrones-20412791-1920-1080.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+}
+#content {
+		overflow: auto;
+}
+#nav, #feature, #footer {
+		margin: 1%;
+}
+.column1, .column2, .column3 {
+		width: 31.3%;
+		float: left;
+		margin: 1%;
+}
+.column1 {
+        background-color:#556B2F;
+}
+.column2 {
+        background-color:#00BFFF;
+}
+.column3 {
+		margin-right: 0%;
+        background-color:#40E0D0;
+}
+li {
+		display: inline;
+		padding: 0.5em;
+}
+#nav, #footer {
+		background-color: #00F3FF;
+		padding: 0.5em 0;
+}
+#feature, .article {
+		height: 10em;
+		margin-bottom: 1em;
+}
+#feature {
+  color: black;
+  background-color: #008080;
+  background-image: url("http://www.clker.com/cliparts/K/h/F/J/z/D/mountains.svg");
+  background-size: contain;
+  background-position: right;
+  background-repeat:no-repeat;
+}
+
+s
