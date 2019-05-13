@@ -86,4 +86,8 @@ li {
 }
 #footer {
   color: #fff;
+  text-align: center;
+  font-size: 15px
+  font-weight: bold;
+  padding 13px opx 0px 0px;
 }
