@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Made with Thimble</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+  <table border="1" width="1000" height="200">
+    <thead>
+     <!-- row 1 -->
+    <tr>
+        <th colspan="3"><h1>HTML Table Example</h1></th>
+        <!--
+          <td></td> 
+          <td></td>
+        -->
+    </tr>
+    </thead>
+    <tbody>
+      <!-- row 2-->
+    <tr>
+        <td>
+         
+            <img src="https://i.pinimg.com/originals/d7/38/3c/d7383c4b5a87c4b120cefea0dc211eac.jpg" alt="Shrimp Fried Rice" width="450" height="200">
+         
+        </td>
+      <td><h2>Meal Planner</h2></td>
+      <td><h2>Recipe Index#:</h2></td>
+       
+    </tr>
+    
+        <!-- row 3-->
+      <tr>
+        <th>Week starting</th>
+        <th>4/19/19</th>
+        <th>Instructions</th>
+       
+    </tr>
+    
+        <!-- row 4-->
+    <tr>
+        <td><b>Day of the Week</b></td>
+        <td><b>Recipe Name</b></td>
+        <th rowspan="8">Shrimp Fried Rice</th>
+        
+    </tr>
+    
+        <!-- row 5-->
+    <tr>
+        <td>Monday</td>
+        <td>Spinach Feta Pizza</td>
+        <!-- <td></td> -->
+                                 
+    </tr>
+    
+        <!-- row 6 -->
+    <tr>
+        <td>Tuesday</td>
+        <td>My New Recipe</td>
+        <!--<td></td> -->
+
+    </tr>
+    
+        <!-- row 7-->
+    <tr>
+        <td>Wednesday</td>
+        <td></td>
+        <!-- <td></td> -->
+
+    </tr>
+      
+        <!-- row 8 -->
+    <tr>
+        <td>Thursday</td>
+        <td></td>
+        <!-- <td></td> -->
+
+    </tr>
+      
+        <!-- row 9 -->
+    <tr>
+        <td>Friday</td>
+        <td></td>
+        <!-- <td></td> -->
+
+    </tr>
+      
+        <!-- row 10 -->
+    <tr>
+        <td>Saturday</td>
+        <td></td>
+        <!-- <td></td> -->
+
+    </tr>
+      
+        <!-- row 11 -->
+    <tr>
+        <td>Sunday</td>
+        <td></td>
+        <!-- <td></td> -->
+
+    </tr>
+   
+  </tbody>
+  </table>
+  </body>
+  </html>
