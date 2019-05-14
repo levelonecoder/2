@@ -1,0 +1,60 @@
+* {
+   font-family: 'BeonRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+   text-align: center;
+}
+h1 {
+        font-family: 'BeonRegular'; 
+        font-weight: normal; 
+        font-style: normal; 
+}
+body {
+		width: 90%;
+		margin: 0 auto;
+        background-color:white;
+        background-image: url(https://thewallpaper.co/wp-content/uploads/2016/10/Pink-Wallpapers-Color-Pictures-download-desktop-wallpapers-high-definition-monitor-download-free-amazing-background-photos-artwork-1920x1200.jpg);
+        
+        background-size:cover;
+        background-position: center;
+}
+ul li{
+    display: inline-block;
+  
+    
+}
+
+ul li a{
+    text-decoration:none;
+    color: #fff;
+    padding:5px 20px;
+    border: 1px solid transparent;
+    transition: 1.5s ease;
+  
+}
+
+ul li a:hover{
+    background-color:#FF00FF;
+    color: #000;
+  }
+
+ul li.active a{
+    background-color: #FF00FF;
+    color: #000;
+}
+
+#feature {
+  color: #FFF;
+  background-color: #000;
+  background-size: contain;
+  background-position: right;
+  background-repeat:no-repeat;
+}
+
+#nav, #footer {
+		background-color: #000;
+		padding: 0.5em 0;
+}
+#footer {
+  color: #fff;
+}
